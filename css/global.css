@@ -1,0 +1,39 @@
+:root{
+	--main-color:rgba(77, 139, 85,1);
+}
+
+body{
+	font-family: "Oswald", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+	font-family: "Sansita Swashed", system-ui;
+	letter-spacing: 1.5px;
+}
+
+p,
+a.btn{
+	font-family: "Oswald", sans-serif;
+}
+
+span.text{
+	font-size: 20px;
+	z-index: 2;
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+
+.title{
+	color: #fff;
+}
+
+.title h2{
+	font-size: 38px;
+	letter-spacing: 0;
+	padding-top: 16px;
+}
