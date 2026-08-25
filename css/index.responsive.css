@@ -1,0 +1,99 @@
+							@media (min-width: 371px) and (max-width: 1300px){
+	header nav.navbar .navbar-brand{
+		width:20%
+	}
+	#Services img{
+		width:70%;
+		display:block;
+		margin:auto}
+		#Menu #pills-tabContent .item{
+			width:70%
+		}
+		#BeansCoffee h2{
+			font-size:30px
+		}
+		#BeansCoffee h3{
+			font-size:40px}
+			#BeansCoffee i{
+				font-size:70px}
+							}
+							@media (min-width: 577px) and (max-width: 1300px){
+				header nav.navbar .navbar-brand{
+					width:15%
+				}
+				header #carouselExampleFade .carousel-inner .carousel-item .carousel-caption h2{
+					font-size:40px}
+					#Menu #pills-tabContent .item{
+						width:100%
+					}
+					#BeansCoffee h2{
+						font-size:40px}
+						#BeansCoffee h3{
+							font-size:50px}
+							#BeansCoffee i{
+								font-size:90px}
+								#Book form{
+									width:50%;
+									margin:initial;
+									margin-left:auto
+								}
+								#Book .container{
+									background-image:url(../images/Book_girl.png);
+									background-size:50%
+								}#VideoModal .modal-dialog .modal-content{
+									width:70%
+								}
+							}
+							@media (min-width: 769px) and (max-width: 1300px){
+								header nav.navbar .navbar-brand{
+									width:12%
+								}
+								header #carouselExampleFade .carousel-inner .carousel-item .carousel-caption h2{
+									font-size:50px
+								}
+								#Services img{
+									width:50%
+								}
+								#BeansCoffee h2{
+									font-size:50px
+								}
+								#BeansCoffee h3{
+									font-size:60px
+								}
+								#BeansCoffee i{
+									font-size:100px
+								}
+							}
+							@media (min-width: 992px) and (max-width: 1300px){
+								header nav.navbar .navbar-brand{
+									width:8%
+								}
+								header nav.navbar .navbar-toggler{
+									display:none
+								}
+								header nav.navbar .navbar-collapse{
+									background-color:transparent
+								}
+								header nav.navbar .navbar-collapse .navbar-nav .nav-item .nav-link{
+									margin-right:20px;
+									width:initial
+								}
+								header #carouselExampleFade .carousel-inner .carousel-item .carousel-caption h2{
+									font-size:60px
+								}
+								#About .container>.row .part2 .box .item{
+									width:100%
+								}
+								#Services img{
+									width:100%
+								}
+								#Services .special .special1{
+									order:1
+								}
+								#Services .special .special2{
+									order:2
+								}
+								#VideoModal .modal-dialog .modal-content{
+									width:60%
+								}
+							}
